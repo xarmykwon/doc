@@ -1,19 +1,19 @@
 ###DAPP 스터디.
 
-• Node.js 와 npm (기본 소양)
-• 자바스크립트로 구현하는 블록 및 블록체인 시스템
-• 이더리움 개발 환경 설정
-• 채굴, 트랜젝션, POS, POW
-• geth 설치(go-ethereum)
-• 테스트넷 가동 (geth를 이용한)
-• mist 브라우저 활용법
-• Truffle 컴파일 및 배포
-• 스마트 컨트랙트 프로그래밍(솔리디티) 문법 공부
-• 이더리움을 주고 받는 스마트 계약 작성
-• ERC20 나만의 토큰 제작
-• 복권 스마트 컨트랙트 제작 ( web3js + Solidity + Truffle + React)
-• 크라우드 세일 실습 ( web3js + Solidity + Truffle + React + Redux)
-• 웹, 모바일 지갑 구현 ( web3js )
+* Node.js 와 npm (기본 소양)
+* 자바스크립트로 구현하는 블록 및 블록체인 시스템
+* 이더리움 개발 환경 설정
+* 채굴, 트랜젝션, POS, POW
+* geth 설치(go-ethereum)
+* 테스트넷 가동 (geth를 이용한)
+* mist 브라우저 활용법
+* Truffle 컴파일 및 배포
+* 스마트 컨트랙트 프로그래밍(솔리디티) 문법 공부
+* 이더리움을 주고 받는 스마트 계약 작성
+* ERC20 나만의 토큰 제작
+* 복권 스마트 컨트랙트 제작 ( web3js + Solidity + Truffle + React)
+* 크라우드 세일 실습 ( web3js + Solidity + Truffle + React + Redux)
+* 웹, 모바일 지갑 구현 ( web3js )
 
 ```python
 
